@@ -12,4 +12,6 @@ initials += currentInitial;
 return initials;
 }
 
-console.log(extractInitialsFromFullName("Martin Boxer Harris"));
+console.log(extractInitialsFromFullName("Felicity Rita Sarah Jones")); 
+
+
